@@ -74,7 +74,7 @@ Certifique-se de ter o ambiente Go configurado em sua máquina.
     <br />
 </h1>
 
-# Licensa
+# Licença
 
 Este projeto está sob a licença CC0-1.0. Caso gostaria de ler, por favor acessar a licença aqui neste link [LICENSE](https://github.com/SilvaneiMartins/blockchain-go/blob/master/LICENSE) para maiores informações.
 
