@@ -1,6 +1,15 @@
 {
     "cSpell.words": [
+        "Blokchain",
+        "cbtx",
+        "createblockchain",
         "dgraph",
-        "github"
+        "getbalance",
+        "github",
+        "printchain",
+        "txid",
+        "txin",
+        "txout",
+        "UTXOs"
     ]
 }

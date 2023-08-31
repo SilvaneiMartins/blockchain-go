@@ -97,6 +97,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issue
     </sub>
 </a>
      <a href="https://github.com/SilvaneiMartins" title="Silvanei martins" >
-    🚀
  </a>
-Feito com ❤️ por Silvanei Martins
+<br />
+🚀 Feito com ❤️ por Silvanei Martins
