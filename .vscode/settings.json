@@ -2,14 +2,21 @@
     "cSpell.words": [
         "Blokchain",
         "cbtx",
+        "Checksun",
         "createblockchain",
+        "createwallet",
         "dgraph",
         "getbalance",
         "github",
+        "hasher",
+        "listaddreses",
+        "listaddresses",
         "printchain",
+        "ripemd",
         "txid",
         "txin",
         "txout",
-        "UTXOs"
+        "UTXOs",
+        "walletfile"
     ]
 }
